@@ -1,7 +1,7 @@
 # Projeto Dio.me
 
 <p>Projeto com intuito de aperfeiçoar meus conhecimentos sobre HTML5, CSS3 e JavaScript (node.js) utilizando da API publica PokeApi</p>
-
+<p>Link para o <a href="https://allandnz.github.io/Pokedex-API/" target="_blank">site</a> hospedado no github pages.</p>
 
 <h2>Tecnologias utilizadas:</h2>
 <div style="display: inline_block"><br>
